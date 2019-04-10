@@ -1,4 +1,0 @@
-Usando el datasheet del PIC16F886 identifique los siguientes puntos:
-¿Qué conjunto de instrucciones (ISA) usa?
-Se divide en 3 categorias
-Byte
