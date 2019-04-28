@@ -1,5 +1,0 @@
-Arquitectura RISC
------------------ 
-En la arquitectura computacional, RISC (del inglés reduced instruction set computer) es un tipo de microprocesador con las siguientes características fundamentales:
- * Instrucciones de tamaño fijo y presentadas en un reducido número de formatos.
- * Sólo las instrucciones de carga y almacenamiento acceden a la memoria de datos.
